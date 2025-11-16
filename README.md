@@ -76,7 +76,15 @@ Methodology:
 Screenshots:
 <img width="1911" height="862" alt="{86BCD01F-ADB1-4830-B37E-45C3AAA407B2}" src="https://github.com/user-attachments/assets/4578f17a-6111-40ba-9b27-69959bab6046" />
 
+<img width="1916" height="853" alt="{3000AC11-E211-45E0-8734-B20584A17B61}" src="https://github.com/user-attachments/assets/d24470e2-ac2c-4338-8bed-f094f1f75118" />
 
+<img width="1596" height="728" alt="{CC8764F9-B31E-4A9F-86F6-53E55B89C397}" src="https://github.com/user-attachments/assets/58b74704-af65-4cb2-bbd0-51da859f489c" />
+
+<img width="976" height="634" alt="{9E3CA3FA-C08A-4ADC-96E0-A9770B1B67B7}" src="https://github.com/user-attachments/assets/39cb9afc-2e5b-4fdf-9525-ef94b2ac3b1b" />
+
+<img width="1824" height="696" alt="{54B6D480-10BF-4ABE-AA5B-1F5981D957E3}" src="https://github.com/user-attachments/assets/a113d82b-2a0e-4a48-9f1e-4886b80201ba" />
+
+<img width="1847" height="663" alt="{D9EF5E78-0D77-4D16-8791-A34D5EE9DAA3}" src="https://github.com/user-attachments/assets/c5217571-4ce7-44b4-90bd-f517350557e4" />
 
 Developer
 
